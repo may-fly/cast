@@ -1,4 +1,4 @@
-module github.com/spf13/cast
+module github.com/may-fly/cast
 
 go 1.19
 
