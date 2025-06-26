@@ -11,8 +11,7 @@ import (
 	"time"
 
 	qt "github.com/frankban/quicktest"
-
-	"github.com/spf13/cast"
+	"github.com/may-fly/cast"
 )
 
 type testCase struct {
