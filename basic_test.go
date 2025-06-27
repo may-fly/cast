@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/may-fly/cast"
+	"github.com/spf13/cast"
 )
 
 func TestBool(t *testing.T) {

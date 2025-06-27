@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/may-fly/cast/internal"
+	"github.com/spf13/cast/internal"
 )
 
 // ToTimeE any value to a [time.Time] type.

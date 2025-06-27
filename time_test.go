@@ -13,8 +13,8 @@ import (
 	"time"
 
 	qt "github.com/frankban/quicktest"
-	"github.com/may-fly/cast"
-	"github.com/may-fly/cast/internal"
+	"github.com/spf13/cast"
+	"github.com/spf13/cast/internal"
 )
 
 func TestTime(t *testing.T) {

@@ -14,7 +14,7 @@ import (
 	"time"
 
 	qt "github.com/frankban/quicktest"
-	"github.com/may-fly/cast"
+	"github.com/spf13/cast"
 )
 
 type numberContext struct {
